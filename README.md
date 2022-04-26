@@ -1,3 +1,3 @@
 # Hello World
 
-Hello world is a classic frst program to write.
+Hello world is a classic first program to write.
